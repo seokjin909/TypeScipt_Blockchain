@@ -1,7 +1,1 @@
-import { init, exit } from "myPackage";
-
-init({
-    url : "naver.com"
-})
-
-exit(1)
+import { init, exit } from "./myPackage";

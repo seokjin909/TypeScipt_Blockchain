@@ -9,6 +9,8 @@ JSDoc => 타입스크립트와 같이 작업하는 방식, tsconfin.json 파일�
 
 Block => DefinitelyTyped : TypeScript 정의를 위한 레포지토리 https://github.com/DefinitelyTyped/DefinitelyTyped [npm i -D @types/node] 설치한 라이브러리를 타입스크립트에서 사용할 때 모듈 인식이 안되는 에러가 발생할 경우 유용함
 
+Chain => 간단한 crypto를 사용한 해쉬 값 생성과 nodemon을 사용한 빌드 과정과 실행 과정을 단축, 블록으로 연결된 간단한 코인 생성까지 실행
+
 // @ts-check
 
 - Initializes the project
